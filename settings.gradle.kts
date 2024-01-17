@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyBottomNavigation"
+rootProject.name = "My Compose Navigation"
 include(":app")
  
